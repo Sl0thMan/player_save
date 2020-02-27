@@ -25,3 +25,11 @@ Spiritual Cauldron - Riches abound where least expected - useless gold
 Lore Cauldron - You feel more skillful - Spells are increased 2 levels!!!
 
 Thaumatergic Cauldron - What once was open now is closed - Refils all things on level!!!
+
+Meditation Cauldron - Your spiritual force recovers quickly - Mana regeneration
+
+Abandonded Cauldron - The hands of men may be guided by fate - Increased dex for 5 minutes
+
+Magical Cauldron - While the spirit is vigilant, the body thrives - ManaShield for THIRTY MINUTES fffff
+
+Cryptic Cauldron - Arcane power brings destruction - Nova
